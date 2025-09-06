@@ -1,0 +1,40 @@
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Microsoft Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.vsdx
+
+# Word lock files
+~$*.doc
+~$*.dot
+
+# Excel temp
+~$*.xls
+~$*.xlt
+
+# PowerPoint temp
+~$*.ppt
+~$*.pot
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
